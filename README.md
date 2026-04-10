@@ -30,12 +30,6 @@ Passionné par la création d'applications Full Stack performantes, l'exploratio
 
 ### 📊 Statistiques GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDELALIKHOLTY&show_icons=true&theme=radical&hide_border=true" alt="Stats de Abdelali" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDELALIKHOLTY&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" width="300"/>
-</p>
-
----
 
 ### 📜 Certifications Récentes
 * **Ultimate AWS Bootcamp** - School of DevOps (Avril 2026)
