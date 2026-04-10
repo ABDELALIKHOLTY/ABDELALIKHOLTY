@@ -23,7 +23,6 @@ Passionné par la création d'applications Full Stack performantes, l'exploratio
 * **[ConMedPartApp](https://github.com/ABDELALIKHOLTY/ConMedPartApp)** : Solution desktop (PyQt6) automatisant à 100% la répartition logistique des concours médicaux pour la FMP de Fès.
 * **[StockNex](https://github.com/ABDELALIKHOLTY/StockNex)** : Système intelligent de gestion de stock avec suivi en temps réel et alertes prédictives.
 * **[Banking System](https://github.com/ABDELALIKHOLTY/Banking-System)** : Architecture sécurisée pour la gestion de transactions bancaires et persistance de données.
-* **[Portfolio V2](https://elkholtyabde.vercel.app/)** : Ma vitrine numérique développée avec les dernières stacks frontend.
 
 ---
 
