@@ -27,7 +27,6 @@ Passionné par la création d'applications Full Stack performantes, l'exploratio
 
 ---
 
-### 📊 Statistiques GitHub
 
 
 ### 📜 Certifications Récentes
