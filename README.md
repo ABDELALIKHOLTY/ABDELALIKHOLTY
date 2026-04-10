@@ -1,7 +1,6 @@
 # 👋 Salut, je suis Abdelali Kholty
 
 ### 🚀 Élève Ingénieur en Génie Logiciel & Systèmes Intelligents
-**ENSAM Meknès (Promotion 2027)**
 
 Passionné par la création d'applications Full Stack performantes, l'exploration de l'Intelligence Artificielle et la mise en place d'architectures Cloud modernes. Je combine une rigueur académique avec une soif d'apprendre les dernières technologies DevOps.
 
